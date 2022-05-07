@@ -2,7 +2,9 @@
 Author:		John-Philipp Vogt
 Date:		03.05.2022
 Synopsis:	A little program pairing three kids with their favourite superheros (getting to know string termination and character arrays).
+Filename:	p1ch6.c
 */
+
 
 #include <stdio.h>
 #include <string.h>
@@ -12,7 +14,7 @@ int main()
 	char Kid1[12]; // array can hold an 11 character string because the last elemnt is '\0'
 	char Kid2[] = "Enola";
 	char Kid3[] = "Löööra";
-	char Hero1[] = "Batman"; // no need for character array here??
+	char Hero1[] = "Batman"; // nvm
 	char Hero2[34] = "John"; // just in case some extra memory space for john :)
 	char Hero3[25];
 
