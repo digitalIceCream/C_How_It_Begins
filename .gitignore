@@ -1,0 +1,8 @@
+# Ignore everything but '.gitignore', '.c' and '.h' files and subdirectories.
+# Now, this configuration should apply to all subdirectories.
+
+*
+!*.gitignore
+!*.c
+!*.h
+!*/

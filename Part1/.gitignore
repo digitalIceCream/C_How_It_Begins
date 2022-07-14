@@ -1,6 +1,0 @@
-# only track .c, .h files, and the .gitignore file and ignore everything else.
-
-*
-!.gitignore
-!.c
-!.h
