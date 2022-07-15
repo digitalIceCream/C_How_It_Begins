@@ -11,9 +11,9 @@ Filename:	p1ch6.c
 
 int main()
 {
-	char Kid1[12]; // array can hold an 11 character string because the last elemnt is '\0'
-	char Kid2[] = "Enola";
-	char Kid3[] = "Löööra";
+	char Kid1[12]; // array can hold an 11 character string because the last element is '\0'
+	char Kid2[] = "Enola"; // array holds 5+1 characters
+   	char Kid3[] = "Löööra"; // array holds 7 characters
 	char Hero1[] = "Batman"; // nvm
 	char Hero2[34] = "John"; // just in case some extra memory space for john :)
 	char Hero3[25];
@@ -26,7 +26,7 @@ int main()
 	Kid1[4] = 'e';
 	Kid1[5] = '\0'; // NEVER FORGET THE NULL ZERO/ BINARY ZERO / STRING TERMINATOR / ASCII 0
 
-	strcpy(Hero3, "The Incredible Arti!");
+	strcpy(Hero3, "The Incredible Arti!"); // assigns to  char array 'Hero 3' right before printing it
 
 	printf("%s\'s favourite hero is %s.\n", Kid1, Hero1);
 	printf("%s\'s favourite hero is %s.\n", Kid2, Hero2);
