@@ -1,5 +1,5 @@
 /*
-Autho:		John-Philipp Vogt
+Author:		John-Philipp Vogt
 Date:		08.05.2022
 Synopsis:	A simple program that increases a counter from 1 to 5, printing update and then counts it back to 2.
 Filename:	p2ch10.1.c

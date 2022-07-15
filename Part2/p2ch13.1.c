@@ -17,7 +17,7 @@ int main()
 	printf("The higher, the better ;)\n");
 	scanf(" %d", &numPick); // Anything else than a string-array takes an ampersand in the scanf()!
 
-	print("%d %s divisible by 2.\n", numPick, (numPick % 2 == 0) ? ("is") : ("is not"));
+	printf("%d %s divisible by 2.\n", numPick, (numPick % 2 == 0) ? ("is") : ("is not"));
 	printf("%d %s divisible by 3.\n", numPick, (numPick % 3 == 0) ? ("is") : ("is not"));
 	printf("%d %s divisible by 4.\n", numPick, (numPick % 4 == 0) ? ("is") : ("is not"));
 	printf("%d %s divisible by 5.\n", numPick, (numPick % 5 == 0) ? ("is") : ("is not"));
