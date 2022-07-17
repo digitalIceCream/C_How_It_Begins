@@ -1,6 +1,8 @@
 #####
 Author:		John-Philipp Vogt
 Date:		03.05.2022
+
+Wanted meddler: Enola
 ####
 
 This repo contains some practice code to learn C, git, and vim.
