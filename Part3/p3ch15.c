@@ -3,7 +3,7 @@ Author:			John-Philipp Vogt
 Date:			15.07.2022
 Synopsis:		A simple program that takes in n amounts of movies and their ratings from the user and displays the favourite 
 			and the least favourite movie supplied using nested if-conditionals in a for-loop after a while loop.
-Filename:		p3ch15.1.c
+Filename:		p3ch15.c
 */
 
 #include <stdio.h>
