@@ -11,6 +11,7 @@ The repo is structured alike the book chapters from which the code is taken from
 	"C Programming Absolute Beginner's Guide, Third Edition" by G. Perry and D. Miller.
 
 ############################
+
 Amendment 2022-07-30:
 
 This repo now contains all explicit practice exercises from the book. It was meant as an introduction for me to the
@@ -25,5 +26,7 @@ It apparently contains all concept used in the book. However, due to the age of 
 Some of the chapters in the last fifths (roughly) of the book were making my gcc complain about specific functions. After quick research it turned out that the authors used deprecated functions (such as gets()). I started to distrust the usefulness a little bit --which lead to the omission of some synopses in the skeleton-headers. For completeness sake, those **should** be added; Revising the material can only reinforce the concepts and will make it easier to me to use those programs as reference.
 
 As of now, I will consider this exercise completed. Off to other projects!
+
 ############################
+
 
