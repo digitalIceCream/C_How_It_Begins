@@ -1,12 +1,11 @@
 /*
 Author:		John-Philipp Vogt
-Date:		03.05.2022
+Date:		2022-05-03
 Synopsis:	A program demonstrating the use of a self-made header file.
 */
 
 #include <stdio.h>
 #include "p1ch7.h"
-
 
 int main()
 {
@@ -15,7 +14,6 @@ int main()
 
 	printf("And who is the damn cutest?\n");
 	printf("Well its %s!\n", QTPI);
+
 	return 0;
 }
-
-

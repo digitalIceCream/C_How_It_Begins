@@ -1,7 +1,7 @@
 /*
 Author:		John-Philipp Vogt
-Date:		03.05.2022
-Synopsis:	A little program pairing three kids with their favourite superheros (getting to know string termination and character arrays).
+Date:		2022-05-03
+Synopsis:	A simple program pairing three kids with their favourite superheros. Uses strcpy function, string termination and character arrays.
 Filename:	p1ch6.c
 */
 
@@ -18,7 +18,7 @@ int main()
 	char Hero2[34] = "John"; // just in case some extra memory space for john :)
 	char Hero3[25];
 
-	// Defining Kid! element-by-element
+	// Defining Kid1 element-by-element
 	Kid1[0] = 'K';
 	Kid1[1] = 'a';
 	Kid1[2] = 't';
@@ -34,5 +34,3 @@ int main()
 
 	return 0;
 }
-
-

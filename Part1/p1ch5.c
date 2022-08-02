@@ -1,6 +1,6 @@
 /*
 Author:		John-Philipp Vogt
-Date:		03.05.2022
+Date:		2022-05-03
 Synopsis:	This is a simple program that lists three kids and their school supply needs, as well as cost to buy the supplies.
 Filename:	p1ch5.c
 */

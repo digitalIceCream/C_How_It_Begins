@@ -1,6 +1,6 @@
 /*
 Author:		John-Philipp Vogt
-Date:		04.05.2022
+Date:		2022-05-04
 Synopsis:	A simple program implementing scanf() with print() to get data from prompt and print it on screen.
 Filename:	p1ch8.c
 */
@@ -35,5 +35,3 @@ int main()
 	
 	return 0;
 }
-
-

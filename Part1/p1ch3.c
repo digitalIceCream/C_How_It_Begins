@@ -1,8 +1,10 @@
 /*
 Author: 	John-Philipp Vogt
-Date:		01.05.2022
+Date:		2022-05-01
 Synopsis:	A simple non-program to use some comments.
+Filename: 	p1ch3.c
 */
+
 #include <stdio.h>
 
 int main()

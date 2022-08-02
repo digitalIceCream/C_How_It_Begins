@@ -1,11 +1,12 @@
 /*
 Author:		John-Philipp Vogt
-Date:		02.05.2022
+Date:		2022-05-02
 Synopsis:	A simple program using printf() and some common escape sequences.
 Filename:	p1ch4.c
 */
 
 #include <stdio.h>
+
 int main()
 {
     printf("Just one small step for coders. One giant leap for");
